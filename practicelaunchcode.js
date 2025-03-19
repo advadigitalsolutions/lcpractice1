@@ -5,11 +5,11 @@ let colorOfCar = " red";
 let toyDoll = 7;
 let dollPrice = 40;
 let colorOfDoll = " blue";
-let subTotal = custName + " bought " + toyCar + colorOfCar + " toy cars for $" + carPrice + ".";
-let finalTotal = custName + " bought " + toyDoll + colorOfDoll + " toy dolls for $" + dollPrice + ".";
+let subTotal1 = custName + " bought " + toyCar + colorOfCar + " toy cars for $" + carPrice + ".";
+let subTotal2 = custName + " bought " + toyDoll + colorOfDoll + " toy dolls for $" + dollPrice + ".";
 
-console.log(subTotal);
-console.log(finalTotal);
+console.log(subTotal1);
+console.log(subTotal2);
 
 /*
 Writing meaningful variable names helped me keep track of what I was doing as I made changes and thought out the operations.
